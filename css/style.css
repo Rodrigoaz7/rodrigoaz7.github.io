@@ -51,9 +51,11 @@ body {
   z-index: 1;
   padding: 150px 0px 200px;
 }
+
 .header .logo img{
     max-width: 100%;
 }
+
 #contato {
   text-align: center;
   margin: 0 auto;
@@ -64,6 +66,10 @@ body {
   margin: 0 auto;
   
 }
+  .imgportfolio:hover{
+    width: 102%;
+    height: 102%;
+  }
 /*
 .header:before {
   content: '';
@@ -370,7 +376,7 @@ body {
 
 .responsive_details{
     background: rgb(75, 154, 163);
-    margin-bottom: 150px;
+    margin-bottom: 50px;
     height: 500px;
 }
 .computer_pic img{
